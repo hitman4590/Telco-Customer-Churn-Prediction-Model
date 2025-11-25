@@ -1,6 +1,6 @@
-Telco Customer Churn Prediction — End-to-End Analytics Project
+**Telco Customer Churn Prediction — End-to-End Analytics Project**
 
-Predictive Analytics | Machine Learning | EDA | XGBoost | Power BI Dashboard
+*Predictive Analytics | Machine Learning | EDA | XGBoost | Power BI Dashboard*
 
 This project implements a complete customer churn prediction system for a telecom company, including data preprocessing, exploratory data analysis, machine-learning model development, evaluation, and visualization. It was developed as part of the HEPro Business Analytics Internship (2025).
 
